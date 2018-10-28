@@ -1,2 +1,2 @@
-# Platinum-Storm
+# PlatinumStorm
 Platinum Storm Engine
